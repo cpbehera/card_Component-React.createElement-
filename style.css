@@ -1,0 +1,21 @@
+.main{
+    border: 1px solid red;
+    width: 300px;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+p{
+    line-height: 5px;
+}
+.activity{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
+}
+.activity div{
+    display: flex;
+    flex-direction: column;
+}
+span{
+    text-transform: uppercase;
+}
